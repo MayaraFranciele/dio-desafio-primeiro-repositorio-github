@@ -1,0 +1,13 @@
+- Git foi criado em 2005, e é um sistema de versionamento de código
+dstribuído, criado pelo Linus Torvalds (Criador do Linux).
+
+Lembrete: Software não é feito, se não for colaborativo.
+
+Comandos:
+* DIR = Listar pastas
+* CD = Navegar entre pastas
+* CLS = Limpa a tela (windows)
+* TAB = Completa a palavra
+* MKDIR = Cria uma pasta
+* DEL = Deletar arquivos
+* RMDIR = Deleta o repositório
